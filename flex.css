@@ -1,0 +1,42 @@
+/* CSS Document */
+.center-box {
+    background-color: darkblue;
+    width: 1000px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center-item {
+    background-color: bisque;
+    width: 100px;
+    height: 100px;
+}
+
+.Coding-Dojo {
+    background-color: #4387ecd1;
+    display: inline-flex;
+    align-items: center;
+    text-align: center;
+    width: 1000px;
+    height: 100px;
+    font-family: "Montserrat";
+    font-size: 12px;
+    color: white;
+}
+
+.flex_container {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    font-family: "Montserrat";
+    font-size: 12px;
+    color: white;
+}
+#icon {
+    width: 85px;
+    height: 75px;
+}
